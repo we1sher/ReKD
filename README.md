@@ -17,7 +17,6 @@ This repository contains the official PyTorch implementation of the IJCV paper: 
   url = {https://doi.org/10.1007/s11263-025-02705-y}
 }
 
-```bibtex
 @inproceedings{chen2021reviewkd,
     title={Distilling Knowledge via Knowledge Review},
     author={Pengguang Chen, Shu Liu, Hengshuang Zhao, and Jiaya Jia},
