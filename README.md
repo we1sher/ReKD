@@ -4,6 +4,7 @@ This repository contains the official PyTorch implementation of the IJCV paper: 
 
 > **Note**: Our implementation builds upon the excellent [ReviewKD](https://github.com/JIA-Lab-research/ReviewKD) codebase. We sincerely thank the authors for their pioneering work and open-source contribution.
 
+```bibtex
 @article{qu2026relaxed,
   author = {Qu, Z. and Yao, X. and Yang, X. and others},
   title = {Relaxed Knowledge Distillation},
@@ -16,6 +17,7 @@ This repository contains the official PyTorch implementation of the IJCV paper: 
   url = {https://doi.org/10.1007/s11263-025-02705-y}
 }
 
+```bibtex
 @inproceedings{chen2021reviewkd,
     title={Distilling Knowledge via Knowledge Review},
     author={Pengguang Chen, Shu Liu, Hengshuang Zhao, and Jiaya Jia},
